@@ -1,0 +1,30 @@
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\Aula Youtube-DaniloAparecido\bin\Debug\net6.0\Aula Youtube-DaniloAparecido.exe
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\Aula Youtube-DaniloAparecido\bin\Debug\net6.0\Aula Youtube-DaniloAparecido.deps.json
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\Aula Youtube-DaniloAparecido\bin\Debug\net6.0\Aula Youtube-DaniloAparecido.runtimeconfig.json
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\Aula Youtube-DaniloAparecido\bin\Debug\net6.0\Aula Youtube-DaniloAparecido.dll
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\Aula Youtube-DaniloAparecido\bin\Debug\net6.0\ref\Aula Youtube-DaniloAparecido.dll
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\Aula Youtube-DaniloAparecido\bin\Debug\net6.0\Aula Youtube-DaniloAparecido.pdb
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\Aula Youtube-DaniloAparecido\obj\Debug\net6.0\Aula Youtube-DaniloAparecido.csproj.AssemblyReference.cache
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\Aula Youtube-DaniloAparecido\obj\Debug\net6.0\Aula Youtube-DaniloAparecido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\Aula Youtube-DaniloAparecido\obj\Debug\net6.0\Aula Youtube-DaniloAparecido.AssemblyInfoInputs.cache
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\Aula Youtube-DaniloAparecido\obj\Debug\net6.0\Aula Youtube-DaniloAparecido.AssemblyInfo.cs
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\Aula Youtube-DaniloAparecido\obj\Debug\net6.0\Aula Youtube-DaniloAparecido.csproj.CoreCompileInputs.cache
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\Aula Youtube-DaniloAparecido\obj\Debug\net6.0\Aula Youtube-DaniloAparecido.dll
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\Aula Youtube-DaniloAparecido\obj\Debug\net6.0\ref\Aula Youtube-DaniloAparecido.dll
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\Aula Youtube-DaniloAparecido\obj\Debug\net6.0\Aula Youtube-DaniloAparecido.pdb
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\Aula Youtube-DaniloAparecido\obj\Debug\net6.0\Aula Youtube-DaniloAparecido.genruntimeconfig.cache
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\AulaYoutube-DaniloAparecido\bin\Debug\net6.0\Aula Youtube-DaniloAparecido.exe
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\AulaYoutube-DaniloAparecido\bin\Debug\net6.0\Aula Youtube-DaniloAparecido.deps.json
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\AulaYoutube-DaniloAparecido\bin\Debug\net6.0\Aula Youtube-DaniloAparecido.runtimeconfig.json
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\AulaYoutube-DaniloAparecido\bin\Debug\net6.0\Aula Youtube-DaniloAparecido.dll
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\AulaYoutube-DaniloAparecido\bin\Debug\net6.0\ref\Aula Youtube-DaniloAparecido.dll
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\AulaYoutube-DaniloAparecido\bin\Debug\net6.0\Aula Youtube-DaniloAparecido.pdb
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\AulaYoutube-DaniloAparecido\obj\Debug\net6.0\Aula Youtube-DaniloAparecido.csproj.AssemblyReference.cache
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\AulaYoutube-DaniloAparecido\obj\Debug\net6.0\Aula Youtube-DaniloAparecido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\AulaYoutube-DaniloAparecido\obj\Debug\net6.0\Aula Youtube-DaniloAparecido.AssemblyInfoInputs.cache
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\AulaYoutube-DaniloAparecido\obj\Debug\net6.0\Aula Youtube-DaniloAparecido.AssemblyInfo.cs
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\AulaYoutube-DaniloAparecido\obj\Debug\net6.0\Aula Youtube-DaniloAparecido.csproj.CoreCompileInputs.cache
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\AulaYoutube-DaniloAparecido\obj\Debug\net6.0\Aula Youtube-DaniloAparecido.dll
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\AulaYoutube-DaniloAparecido\obj\Debug\net6.0\ref\Aula Youtube-DaniloAparecido.dll
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\AulaYoutube-DaniloAparecido\obj\Debug\net6.0\Aula Youtube-DaniloAparecido.pdb
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\AulaYoutube-DaniloAparecido\obj\Debug\net6.0\Aula Youtube-DaniloAparecido.genruntimeconfig.cache
